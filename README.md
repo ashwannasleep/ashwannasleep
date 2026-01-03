@@ -1,16 +1,17 @@
-## Hi there 👋
+## Ashley Chang
 
-<!--
-**ashwannasleep/ashwannasleep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack engineer focused on building thoughtful, production-ready products with strong UX foundations.
 
-Here are some ideas to get you started:
+Currently working on:
+- **MONU Planner** — iOS + Web personal planning app (SwiftUI, React, AWS)
+- UX-focused frontend systems that model real-world async and failure states
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Featured work
+- **AI Chat Demo** — UX-state–driven chat interface with explicit error, retry, and recovery handling  
+- **MONU Planner Website** — production landing + OAuth / App Store compliance site
+
+### Stack
+SwiftUI · React · TypeScript · JavaScript · AWS (Amplify, Cognito, GraphQL) · Tailwind CSS
+
+Houston, TX  
+Open to software engineering internships
