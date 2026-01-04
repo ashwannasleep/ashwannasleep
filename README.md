@@ -4,7 +4,7 @@ Full-stack engineer focused on building thoughtful, production-ready products wi
 
 Currently working on:
 - **MONU Planner** — iOS + Web personal planning app (SwiftUI, React, AWS)
-- UX-focused frontend systems that model real-world async and failure states
+- UX-focused frontend systems that model async and failure states
 
 ### Featured work
 - **AI Chat Demo** — UX-state–driven chat interface with explicit error, retry, and recovery handling  
