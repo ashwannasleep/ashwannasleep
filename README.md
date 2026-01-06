@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.monu-planner.com/">
-    <img src="assets/monu-hero.png" alt="MONU Planner" width="900" />
+    <img src="monu-hero.png" alt="MONU Planner" width="900" />
   </a>
 </p>
 
