@@ -1,7 +1,8 @@
 # Ashley Chang
 
+Full-stack engineer focused on building thoughtful, production-ready products.
+
 I build **cloud-backed planning products** with calm, structured UX — and you can download one on the App Store.  
-Product-focused engineer across **iOS + Web** (SwiftUI · React + TypeScript · AWS).
 
 ## Shipped
 - **MONU Planner (iOS, App Store)**: https://apps.apple.com/us/app/monu-planner/id6749670778
