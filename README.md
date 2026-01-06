@@ -1,9 +1,3 @@
-<p align="center">
-  <a href="https://www.monu-planner.com/">
-    <img src="monu-hero.png" alt="MONU Planner" width="900" />
-  </a>
-</p>
-
 # Ashley Chang
 
 I build **cloud-backed planning products** with calm, structured UX — and you can download one on the App Store.  
